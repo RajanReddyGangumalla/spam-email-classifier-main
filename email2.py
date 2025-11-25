@@ -143,4 +143,4 @@ if len(st.session_state.history) > 0:
 
 # Footer
 st.markdown("---")
-st.markdown("👨‍💻 Created by **Rajan**")
+st.markdown("👨‍💻 Created by **Rajan Reddy**")
